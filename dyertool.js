@@ -5,5 +5,6 @@ addTool("dyer", {
     onDeselect: function() { alert("Goodbye!"); },
     onClick: function(x,y) { console.log(x,y) },
     shape:"liquid",
+    color:"random",
     spin: true
 })
