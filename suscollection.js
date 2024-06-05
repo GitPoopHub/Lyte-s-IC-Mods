@@ -1,5 +1,5 @@
 //sus
-
+{
 addIngredient("semen",{
     type:"liquid",
     color:["#d6d6cb"],
@@ -63,3 +63,4 @@ addIngredient("diarrhea",{
     hidden:true,
     keywords: 'doo,poo,poop,poopoo,shit,crap,feces,scat,dung,number 2,#2'
   });
+}
