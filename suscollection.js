@@ -1,5 +1,4 @@
-{
-  ingredients.semen = {
+addIngredient(semen = {
     type: "liquid",
     color: [ "#d6d6cb" ],
     keywords: 'semen,cum,sperm,jizz,spunk,nut,baby batter,cream',
@@ -10,9 +9,9 @@
     "l": 82,
     hidden:true,
     "shape": "liquid"
-  };
+  });
 
-  ingredients.poop = {
+addIngredient(poop = {
     shape:"blob",
     type:"paste",
     color:["#5c3508"],
@@ -22,8 +21,9 @@
     adj:"shitty",
     hidden:true,
     keywords: 'doo,poo,poop,poopoo,shit,crap,feces,scat,dung,number 2,#2'
-  };
-  ingredients.vomit = {
+  });
+
+addIngredient(vomit = {
     type: "paste",
     color: [ "#56a637" ],
     keywords: 'puke,barf,vomit,upcheck,throw up,chunder,hurl',
@@ -33,9 +33,9 @@
     "l": 23,
     hidden:true,
     "shape": "liquid"
-  };
+  });
 
-  ingredients.pee = {
+addIngredient(pee = {
     shape:"liquid",
     type:"liquid",
     color:["ffff00"],
@@ -45,9 +45,9 @@
     adj:"pissy",
     hidden:true,
     keywords: 'wee,pee,peepee,piss,urine,tinkle,omorashi,wet,number 1,#1'
-  };
+  )};
   
-  ingredients.snot = {
+addIngredient(snot = {
     type: "powder",
     color: [ "#7ea170" ],
     keywords: 'snot,booger,mucus
@@ -58,5 +58,4 @@
     "l": 82,
     hidden:true,
     "shape": "rock"
-  }
-}
+  )};
