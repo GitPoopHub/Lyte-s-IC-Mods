@@ -9,3 +9,5 @@ https://cdn.jsdelivr.net/gh/GitPoopHub/Lyte-s-IC-Mods@main/accremake.js
 https://cdn.jsdelivr.net/gh/GitPoopHub/Lyte-s-IC-Mods@main/suscollection.js
 ## Inf Chef Randomness Demake
 https://cdn.jsdelivr.net/gh/GitPoopHub/Lyte-s-IC-Mods@main/infrandom.js
+## Mercury
+https://cdn.jsdelivr.net/gh/GitPoopHub/Lyte-s-IC-Mods@main/mercury.js
